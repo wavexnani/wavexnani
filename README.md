@@ -34,7 +34,7 @@
 <!-- Activity Graph -->
 ### 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wavexnani&theme=tokyonight&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wavexnani&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
