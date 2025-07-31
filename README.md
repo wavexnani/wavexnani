@@ -16,11 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wavexnani&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="45%"/>
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wavexnani&theme=tokyonight&row=1&no-bg=true&no-frame=true" />
-</p>
-
 ---
 
 <!-- Skills -->
