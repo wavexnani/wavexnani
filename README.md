@@ -23,7 +23,7 @@ I'm a passionate developer focused on building impactful web and mobile applicat
 ## 🚀 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,python,flask,dart,flutter,mysql,firebase,git,github,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,python,flask,dart,flutter,mysql,firebase,git,github,linux&perline=8" alt="My Tech Stack" />
 </p>
 
 ---
@@ -31,8 +31,13 @@ I'm a passionate developer focused on building impactful web and mobile applicat
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wavexnani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="wavexnani's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wavexnani&theme=tokyonight&hide_border=true&border_radius=12" alt="wavexnani's GitHub streak" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=wavexnani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="wavexnani's GitHub stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=wavexnani&theme=tokyonight&hide_border=true&border_radius=12" alt="wavexnani's GitHub streak" /></td>
+    </tr>
+  </table>
+  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wavexnani&theme=tokyo-night&area=true&hide_border=true" alt="wavexnani's Contribution Graph" />
 </p>
 
