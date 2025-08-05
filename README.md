@@ -1,6 +1,8 @@
 # Hey there 👋, I'm wavexnani!
 
-I'm a passionate developer focused on building impactful web and mobile applications. Welcome to my GitHub profile.
+### A passionate full-stack developer with a focus on building impactful web and mobile applications.
+
+Welcome to my corner of the internet! I'm dedicated to creating seamless user experiences and robust, scalable solutions. Let's build something great together.
 
 <br>
 
@@ -31,13 +33,9 @@ I'm a passionate developer focused on building impactful web and mobile applicat
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=wavexnani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="wavexnani's GitHub stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=wavexnani&theme=tokyonight&hide_border=true&border_radius=12" alt="wavexnani's GitHub streak" /></td>
-    </tr>
-  </table>
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=wavexnani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="wavexnani's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wavexnani&theme=tokyonight&hide_border=true&border_radius=12" alt="wavexnani's GitHub streak" />
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wavexnani&theme=tokyo-night&area=true&hide_border=true" alt="wavexnani's Contribution Graph" />
 </p>
 
