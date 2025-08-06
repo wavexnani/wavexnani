@@ -34,7 +34,7 @@ I'm a passionate developer focused on building impactful web and mobile applicat
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=wavexnani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="wavexnani's GitHub stats" /></td>
-      <td><img src="https://github-readme-streak-stats.vercel.app/?user=wavexnani&theme=tokyonight&hide_border=true&border_radius=12" alt="wavexnani's GitHub streak" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=wavexnani&theme=tokyonight&hide_border=true&border_radius=12" alt="wavexnani's GitHub streak" /></td>
     </tr>
   </table>
   <br>
