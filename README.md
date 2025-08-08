@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on building robust web and mobile applications.
+- 🔭 I'm currently working on building robust web applications.
 - 🌱 I'm always eager to learn and explore new technologies to enhance my skill set.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about React, Next.js, Node.js, and Flutter.
