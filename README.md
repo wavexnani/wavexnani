@@ -24,17 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wavexnani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" alt="wavexnani's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wavexnani&theme=tokyo-night&area=true&hide_border=true" alt="wavexnani's Contribution Graph" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">
