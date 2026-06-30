@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Chandra%20Mouli&fontSize=70&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20hardware%20%26%20software&descAlignY=58&descSize=18&descColor=8be9fd" width="100%"/>
+<img src="https://raw.githubusercontent.com/wavexnani/wavexnani/main/banner.svg" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=wavexnani&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge&labelColor=0f0c29" alt="Profile views" />
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&color=auto&fontColor=00ff9c&text=Tech%20Stack&fontSize=32&desc=&descAlignY=0" width="100%"/>
+### 💻 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,python,flask,dart,flutter,mysql,firebase,git,github,linux&perline=8" alt="My Tech Stack" />
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&color=auto&fontColor=00ff9c&text=Contribution%20Snake&fontSize=32" width="100%"/>
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wavexnani/wavexnani/output/github-snake-dark.svg" />
@@ -91,4 +91,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/wavexnani/wavexnani/main/footer.svg" width="100%"/>
